@@ -7,5 +7,6 @@
 ## Полезности:
 - [ACF](https://github.com/aikar/commands) - фреймворк для создания команд у плагина, рекомендую использовать всем, у кого в плагине больше чем одна команда
 - [Kyori Adventure](https://docs.adventure.kyori.net/) - огромная либа для форматирования текста
+- [XSeries](https://github.com/CryptoMorin/XSeries) - я сам не особо шарю, но эта либа позволяет использовать материалы на всех версиях без заёбов
 - [Exlll ConfigLib](https://github.com/Exlll/ConfigLib) - как по мне лучшая либа для создания конфигов
 - [InventoryFramework](https://github.com/stefvanschie/IF/) - мощная либа для создания гуишек (1.14+)
